@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/*.db
+data/models/
+data/yolo/
+data/uploads/
+data/events_*.csv
+runs/
+.pytest_cache/
+*.egg-info/
